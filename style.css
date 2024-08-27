@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+}
+
+.box{
+    background-color: #ffffff;
+    width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 50px 0 50px 0;
+}
